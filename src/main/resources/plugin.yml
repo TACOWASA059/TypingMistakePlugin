@@ -1,0 +1,7 @@
+name: TypingMistakePlugin
+version: '${project.version}'
+main: com.github.TACOWASA059.typingmistakeplugin.TypingMistakePlugin
+api-version: 1.16
+commands:
+  typo:
+    description: setting of TypingMistakePlugin
